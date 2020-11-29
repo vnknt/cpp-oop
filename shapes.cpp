@@ -118,11 +118,6 @@ public :
 
 
 
-
-
-
-
-
 };
 
 
@@ -159,20 +154,3 @@ int main() {
 	
 }
 
-
-
-
-
-
-
-
-
-
-
-void clear() {
-	int x;
-	for (x = 0; x < 50; x++) {
-		std::cout << std::endl;
-		
-	}
-}
